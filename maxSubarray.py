@@ -1,6 +1,6 @@
 ####
 #
-# max subarray
+# max subarray (Kadane's algorithm)
 #
 # leetcode 53.
 #
